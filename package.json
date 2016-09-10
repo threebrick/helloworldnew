@@ -1,0 +1,23 @@
+{
+  "name": "helloworldnew",
+  "version": "1.0.0",
+  "description": "Build a bot in ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threebrick/helloworldnew.git"
+  },
+  "author": "Dino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/threebrick/helloworldnew/issues"
+  },
+  "homepage": "https://github.com/threebrick/helloworldnew#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
